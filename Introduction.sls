@@ -15,3 +15,5 @@ Creating a new domain controller:
  Sites:
   -uganda
   -india
+  -Mali
+  -Cape town
