@@ -17,3 +17,6 @@ Creating a new domain controller:
   -india
   -Mali
   -Cape town
+ Command Line Tools:
+  -Amazon EC2 CLI
+  -AWS CLI
